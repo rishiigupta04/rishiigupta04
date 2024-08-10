@@ -12,9 +12,9 @@
  
  🔭 I’m currently in my final year of **BSc IT**
  
- 🌱 Currently learning **NextJS and Backend Development**
+ 🌱 In the process of learning **NextJS and Backend Development**
 
-💬 Tech - AI - Coding Enthusiast. Experience in ReactJS and Full Stack Web Development.
+💬 Experience in ReactJS and Full Stack Web Development. Tech - AI - Coding Enthusiast. 
 
 ⚡ Fun fact **There are more possible iterations of a game of chess than there are atoms in the Milky Way galaxy**
 
