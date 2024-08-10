@@ -16,7 +16,7 @@
 
 💬 Experience in ReactJS and Full Stack Web Development. Tech - AI - Coding Enthusiast. 
 
-⚡ Fun fact **There are more possible iterations of a game of chess than there are atoms in the Milky Way galaxy**
+⚡ A Random Fun fact: **There are more possible iterations of a game of chess than there are atoms in the Milky Way galaxy**
 
  </div>
  
