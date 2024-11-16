@@ -21,8 +21,8 @@
  </div>
  
 <div align="center"> 
-<a href="https://drive.google.com/file/d/13zeTuO5yligCSDKc03CKZY2lMJ68T5-o/view?usp=sharing" target="_blank">
-     <img src="https://img.shields.io/badge/RESUME-333333?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+<!-- <a href="https://drive.google.com/file/d/13zeTuO5yligCSDKc03CKZY2lMJ68T5-o/view?usp=sharing" target="_blank">
+     <img src="https://img.shields.io/badge/RESUME-333333?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> -->
     
   <a href="https://www.linkedin.com/in/rishi-raj-gupta45/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
