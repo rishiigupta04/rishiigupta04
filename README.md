@@ -29,7 +29,7 @@
   </a>
     </a>
     <a href="https://rishiraj-gupta.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=contact&logoColor=white" target="_blank" />
+     <img src="https://img.shields.io/badge/PORTFOLIO-333333?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
      <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
