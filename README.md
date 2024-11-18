@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently in my final year of **Bachelors in Information Technology**
+ 🔭 I’m currently in my final year of **Under-Grad degree.**
  
  🌱 In the process of learning **NextJS and Backend Development**
 
