@@ -4,11 +4,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Rishi!;" />
 </h1>
 
-<h3 align="center"><strong>A Passionate Software & Web developer based in Mumbai</strong></h3>
+<h3 align="center"><strong>A Passionate Data Science Enthusiast & Developer based in Mumbai</strong></h3>
+
 
 <br/>
 
-<div align="center">
+<div align="left">
  
 🔭 I’m currently pursuing my M.Sc. in Data Science at NMIMS Mumbai, focusing on statistical modeling, machine learning, and real-world data analysis.
 
@@ -51,11 +52,13 @@
 <h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,r,jupyter,tensorflow,pytorch,scikitlearn,pandas,numpy,matplotlib,seaborn,sql" /><br>
+    <img src="https://skillicons.dev/icons?i=python,r,sql,tensorflow,pytorch" /><br>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40" alt="Power BI"/><br>
     <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,nodejs,express,mongodb,firebase,supabase" /><br>
-    <img src="https://skillicons.dev/icons?i=cpp,java,python,mysql,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" /><br>
+    <img src="https://skillicons.dev/icons?i=cpp,java,mysql,bootstrap,html,css,tailwind,git,github,vscode,figma" /><br>
 </div>
 
+📊 Data Science Libraries & Tools: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook
 
 <br/>
 <hr/>
