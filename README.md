@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently in the final year of my **Under-Grad degree.**
- 
- 🌱 In the process of learning **NextJS and Backend Development**
+🔭 I’m currently pursuing my M.Sc. in Data Science at NMIMS Mumbai, focusing on statistical modeling, machine learning, and real-world data analysis.
 
-💬 Experience in ReactJS and Full Stack Web Development. Tech - AI - Coding Enthusiast. 
+🌱 Currently deepening my skills in Machine Learning, with an emphasis on model development, evaluation, and practical deployment.
 
-⚡ A Random Fun fact: **There are more possible iterations of a game of chess than there are atoms in the Milky Way galaxy**
+💬 Skilled in Python, SQL, Machine Learning, and Data Visualization, with secondary experience in React.js, Next.js and Full Stack Web Development.
+
+⚡ Fun Fact: There are more possible iterations of a game of chess than there are atoms in the Milky Way galaxy.
 
  </div>
  
@@ -51,9 +51,11 @@
 <h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,nodejs,express,mongodb,firebase,supabase," />
+    <img src="https://skillicons.dev/icons?i=python,r,jupyter,tensorflow,pytorch,scikitlearn,pandas,numpy,matplotlib,seaborn,sql" /><br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,nodejs,express,mongodb,firebase,supabase" /><br>
     <img src="https://skillicons.dev/icons?i=cpp,java,python,mysql,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" /><br>
 </div>
+
 
 <br/>
 <hr/>
