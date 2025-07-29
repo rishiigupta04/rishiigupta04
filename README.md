@@ -58,7 +58,7 @@
     <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,nodejs,express,mongodb,firebase,supabase" /><br>
     <img src="https://skillicons.dev/icons?i=cpp,java,mysql,bootstrap,html,css,tailwind,git,github,vscode,figma" /><br>
 </div>
-
+<br/>
 <div align="center">📊 Data Science Libraries & Tools: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook</div>
 
 <br/>
