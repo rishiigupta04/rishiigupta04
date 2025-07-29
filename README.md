@@ -75,6 +75,7 @@
     <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
     <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" />
     <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" />
+      <br/>
     <!-- Full Stack Row 1 -->
     <img src="https://skillicons.dev/icons?i=react" title="React" />
     <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" />
@@ -85,6 +86,7 @@
     <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
     <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" />
     <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" />
+      <br/>
     <!-- Full Stack Row 2 -->
     <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
     <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
