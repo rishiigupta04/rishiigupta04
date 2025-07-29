@@ -52,12 +52,12 @@
 <h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
 <br/>
 
-
+<!-- Data Science Tools Section -->
 <div align="center">
-  <div style="background-color: #0d1117; padding: 20px; border-radius: 12px;">
+  <div style="background-color: #0d1117; padding: 20px; border-radius: 12px; max-width: 1000px;">
     <div style="display: flex; justify-content: center; align-items: center; gap: 30px; flex-wrap: wrap;">
       <div style="text-align: center;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas" width="50" height="50" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas" width="50" height="50" />
         <div style="color: white; font-size: 14px;">Pandas</div>
       </div>
       <div style="text-align: center;">
@@ -92,11 +92,18 @@
   </div>
 </div>
 
-  <div style="display: flex; justify-content: center; align-items: center; gap: 30px; flex-wrap: wrap;">
-    <img src="https://skillicons.dev/icons?i=python,r,sql,tensorflow,pytorch" /><br>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,nodejs,express,mongodb,firebase,supabase" /><br>
-    <img src="https://skillicons.dev/icons?i=cpp,java,mysql,bootstrap,html,css,tailwind,git,github,vscode,figma" /><br>
+<br/>
+
+<!-- Skill Icons Section -->
+<div align="center" style="margin-top: 30px;">
+  <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+    <img src="https://skillicons.dev/icons?i=python,r,sql,tensorflow,pytorch" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,nodejs,express,mongodb,firebase,supabase" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,mysql,bootstrap,html,css,tailwind,git,github,vscode,figma" />
+
+  </div>
 </div>
+
 <br/>
 
 
