@@ -54,11 +54,12 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,r,sql,tensorflow,pytorch" /><br>
      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40" alt="Power BI"/><br>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="40" height="40" alt="Excel"/><br>
     <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,nodejs,express,mongodb,firebase,supabase" /><br>
     <img src="https://skillicons.dev/icons?i=cpp,java,mysql,bootstrap,html,css,tailwind,git,github,vscode,figma" /><br>
 </div>
 
-📊 Data Science Libraries & Tools: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook
+<div align="center">📊 Data Science Libraries & Tools: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook</div>
 
 <br/>
 <hr/>
