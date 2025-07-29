@@ -60,8 +60,6 @@
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" title="Seaborn" alt="Seaborn" width="80" height="40" style="margin: 10px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" alt="Scikit-learn" width="60" height="50" style="margin: 10px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" title="Jupyter" alt="Jupyter" width="50" height="50" style="margin: 10px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" alt="Power BI" width="50" height="50" style="margin: 10px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" title="Excel" alt="Excel" width="50" height="50" style="margin: 10px;" />
 </div>
 
 <br/>
@@ -71,6 +69,8 @@
   <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 15px;">
     <!-- Data/ML Stack -->
     <img src="https://skillicons.dev/icons?i=python" title="Python" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" alt="Power BI" width="50" height="50" style="margin: 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" title="Excel" alt="Excel" width="50" height="50" style="margin: 10px;" />
     <img src="https://skillicons.dev/icons?i=r" title="R" />
     <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
     <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" />
