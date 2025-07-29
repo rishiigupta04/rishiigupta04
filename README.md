@@ -68,15 +68,37 @@
 
 <!-- Skill Icons Section -->
 <div align="center" style="margin-top: 30px;">
-  <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-    <img src="https://skillicons.dev/icons?i=python,r,mysql,tensorflow,pytorch" />
-  </div>
-    <br/>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,nodejs,express,mongodb,firebase,supabase" />
-    <img src="https://skillicons.dev/icons?i=cpp,java,mysql,bootstrap,html,css,tailwind,git,github,vscode,figma" />
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 15px;">
+    <!-- Data/ML Stack -->
+    <img src="https://skillicons.dev/icons?i=python" title="Python" />
+    <img src="https://skillicons.dev/icons?i=r" title="R" />
+    <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
+    <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" />
+    <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" />
+    <!-- Full Stack Row 1 -->
+    <img src="https://skillicons.dev/icons?i=react" title="React" />
+    <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" />
+    <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" />
+    <img src="https://skillicons.dev/icons?i=typescript" title="TypeScript" />
+    <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
+    <img src="https://skillicons.dev/icons?i=express" title="Express" />
+    <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
+    <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" />
+    <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" />
+    <!-- Full Stack Row 2 -->
+    <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html" title="HTML5" />
+    <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
+    <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
+    <img src="https://skillicons.dev/icons?i=git" title="Git" />
+    <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+    <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
+    <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
 
   </div>
 </div>
+
 
 <br/>
 
