@@ -56,50 +56,6 @@
 <div align="center">
     <div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 12px;">
   <div style="display: flex; justify-content: center; align-items: center; gap: 30px; flex-wrap: wrap;">
-
-    <div style="text-align: center;">
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/pandas/pandas.png" alt="Pandas" width="50" height="50" />
-      <div style="color: white; font-size: 14px;">Pandas</div>
-    </div>
-
-    <div style="text-align: center;">
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png" alt="NumPy" width="50" height="50" />
-      <div style="color: white; font-size: 14px;">NumPy</div>
-    </div>
-
-    <div style="text-align: center;">
-      <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="50" height="50" />
-      <div style="color: white; font-size: 14px;">Matplotlib</div>
-    </div>
-
-    <div style="text-align: center;">
-      <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="80" height="40" />
-      <div style="color: white; font-size: 14px;">Seaborn</div>
-    </div>
-
-    <div style="text-align: center;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="60" height="50" />
-      <div style="color: white; font-size: 14px;">Scikit-learn</div>
-    </div>
-
-    <div style="text-align: center;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="50" height="50" />
-      <div style="color: white; font-size: 14px;">Jupyter</div>
-    </div>
-
-    <div style="text-align: center;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50" />
-      <div style="color: white; font-size: 14px;">Power BI</div>
-    </div>
-
-    <div style="text-align: center;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="50" height="50" />
-      <div style="color: white; font-size: 14px;">Excel</div>
-    </div>
-
-  </div>
-</div>
-
     <img src="https://skillicons.dev/icons?i=python,r,sql,tensorflow,pytorch" /><br>
     <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,nodejs,express,mongodb,firebase,supabase" /><br>
     <img src="https://skillicons.dev/icons?i=cpp,java,mysql,bootstrap,html,css,tailwind,git,github,vscode,figma" /><br>
