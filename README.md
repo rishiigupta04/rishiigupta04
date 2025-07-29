@@ -9,7 +9,7 @@
 
 <br/>
 
-<div align="left">
+<div align="center">
  
 🔭 I’m currently pursuing my M.Sc. in Data Science at NMIMS Mumbai, focusing on statistical modeling, machine learning, and real-world data analysis.
 
@@ -52,6 +52,37 @@
 <h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
 <br/>
 <div align="center">
+  <div style="display: inline-block; text-align: center; margin: 0 15px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="50" height="50" />
+    <div>Pandas</div>
+  </div>
+  
+  <div style="display: inline-block; text-align: center; margin: 0 15px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="50" height="50" />
+    <div>NumPy</div>
+  </div>
+  
+  <div style="display: inline-block; text-align: center; margin: 0 15px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50" height="50" />
+    <div>Matplotlib</div>
+  </div>
+  
+  <div style="display: inline-block; text-align: center; margin: 0 15px;">
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="80" height="40" />
+    <div>Seaborn</div>
+  </div>
+  
+  <div style="display: inline-block; text-align: center; margin: 0 15px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="60" height="50" />
+    <div>Scikit-learn</div>
+  </div>
+  
+  <div style="display: inline-block; text-align: center; margin: 0 15px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="50" height="50" />
+    <div>Jupyter</div>
+  </div>
+</div>
+<div align="center">
     <img src="https://skillicons.dev/icons?i=python,r,sql,tensorflow,pytorch" /><br>
      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40" alt="Power BI"/><br>
      <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="40" height="40" alt="Excel"/><br>
@@ -59,7 +90,9 @@
     <img src="https://skillicons.dev/icons?i=cpp,java,mysql,bootstrap,html,css,tailwind,git,github,vscode,figma" /><br>
 </div>
 <br/>
-<div align="center">📊 Data Science Libraries & Tools: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook</div>
+
+
+
 
 <br/>
 <hr/>
