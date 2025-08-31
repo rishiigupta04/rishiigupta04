@@ -11,7 +11,7 @@
 
 <div align="center">
  
-🔭 I’m currently pursuing my M.Sc. in Data Science at NMIMS Mumbai, focusing on statistical modeling, machine learning, and real-world data analysis.
+🔭 I’m currently pursuing M.Sc. in Data Science at NMIMS Mumbai, focusing on statistical modeling, machine learning, and real-world data analysis.
 
 🌱 Currently deepening my skills in Machine Learning, with an emphasis on model development, evaluation, and practical deployment.
 
