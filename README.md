@@ -53,13 +53,31 @@
 <br/>
 
 <!-- Data Science Tools Section -->
-<div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 12px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" title="Pandas" alt="Pandas" width="50" height="50" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png" title="NumPy" alt="NumPy" width="50" height="50" style="margin: 10px;" />
-  <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" title="Matplotlib" alt="Matplotlib" width="50" height="50" style="margin: 10px;" />
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" title="Seaborn" alt="Seaborn" width="80" height="40" style="margin: 10px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" alt="Scikit-learn" width="60" height="50" style="margin: 10px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" title="Jupyter" alt="Jupyter" width="50" height="50" style="margin: 10px;" />
+<div 
+  align="center" 
+  style="
+    background-color: #0d1117; 
+    padding: 20px; 
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+  "
+>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" title="Pandas" alt="Pandas" width="50" height="50" />
+
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png" title="NumPy" alt="NumPy" width="50" height="50" />
+
+  <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" title="Matplotlib" alt="Matplotlib" width="50" height="50" />
+
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" title="Seaborn" alt="Seaborn" width="80" height="40" />
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" alt="Scikit-learn" width="60" height="50" />
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" title="Jupyter" alt="Jupyter" width="50" height="50" />
 </div>
 
 <br/>
