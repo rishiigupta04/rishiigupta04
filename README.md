@@ -49,13 +49,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
-<br/>
-
-<!-- Data Science Tools Section -->
-<div 
-  align="center" 
-  style="
+<h2 align="center" style="
     background-color: #0d1117; 
     padding: 20px; 
     border-radius: 12px;
@@ -65,7 +59,13 @@
     gap: 20px;
     flex-wrap: nowrap;
     overflow-x: auto;
-  "
+  ">⚒️ Languages - Frameworks - Tools ⚒️</h2>
+<br/>
+
+<!-- Data Science Tools Section -->
+<div 
+  align="center" 
+
 >
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" title="Pandas" alt="Pandas" width="50" height="50" />
 
