@@ -1,11 +1,11 @@
 <!-- ============================================================= -->
 <!-- PROFILE README — paste into: rishiigupta04/rishiigupta04/README.md -->
 <!-- ============================================================= -->
-
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rishiigupta04.rishiigupta04" alt="visitors"/>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D0B4E,100:C77DFF&height=220&section=header&text=Hi%20there,%20I'm%20Rishi%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI%20Engineering&descAlignY=52&descSize=18" width="100%"/>
 
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rishiigupta04.rishiigupta04" alt="visitors"/>
+
   <a href="https://www.linkedin.com/in/rishi-raj-gupta45/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://rishiraj-gupta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7B2CBF?style=for-the-badge&logo=todoist&logoColor=white"/></a>
   <a href="https://huggingface.co/rishigupta04"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
