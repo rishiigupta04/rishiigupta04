@@ -9,9 +9,17 @@
   <a href="https://www.linkedin.com/in/rishirajgupta04/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://rishiraj-gupta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7B2CBF?style=for-the-badge&logo=todoist&logoColor=white"/></a>
   <a href="https://huggingface.co/rishigupta04"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
+
+  <br><br>
+
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2000&pause=3000&color=C77DFF&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Currently+teaching+machines+to+have+opinions;Fine-tuning+transformers+on+real-world+data;Building+RAG+pipelines+that+actually+retrieve;Shipping+ML+from+notebook+to+production" alt="typing-animation"/>
+  </a>
 </div>
 
 <br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2D0B4E,500:C77DFF&height=4"/>
 
 ## 👋 About Me
 I build things at the intersection of classical ML and Generative AI; not just wrapping an LLM API call, but fine-tuning models, designing RAG pipelines, and shipping the plumbing (APIs, dashboards, extensions) that makes a model actually usable.
@@ -23,6 +31,8 @@ I build things at the intersection of classical ML and Generative AI; not just w
 - ⚡ Fun fact: there are more possible chess game variations than atoms in the Milky Way galaxy
 
 <br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2D0B4E,100:C77DFF&height=4"/>
 
 ## 🛠️ Skills & Tools
 
@@ -60,7 +70,6 @@ I build things at the intersection of classical ML and Generative AI; not just w
 <img src="https://img.shields.io/badge/Delta_Lake-3C096C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
-
 **Data Tools & MLOps**
 <br>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -84,6 +93,8 @@ I build things at the intersection of classical ML and Generative AI; not just w
 </div>
 
 <br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2D0B4E,100:C77DFF&height=4"/>
 
 ## 🚀 Featured Projects
 
@@ -161,7 +172,8 @@ A medallion-architecture (Bronze/Silver/Gold) pipeline simulating a 5-location r
 </div>
 
 <br>
-<hr/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2D0B4E,100:C77DFF&height=4"/>
 
 ## 🏆 Recognition
 
@@ -173,7 +185,8 @@ Bureau of Police Research & Development (BPR&D) × Telangana Cyber Security Bure
 </div>
 
 <br>
-<hr/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2D0B4E,100:C77DFF&height=4"/>
 
 ## ⚡ GitHub Stats
 
@@ -184,6 +197,13 @@ Bureau of Police Research & Development (BPR&D) × Telangana Cyber Security Bure
 <div align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishiigupta04&hide=HTML&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=C77DFF&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"/> -->
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C77DFF,100:2D0B4E&height=100&section=footer" width="100%"/>
+
 <br>
 
+<div align="center">
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C87DFF,100:2D0B4E&height=100&section=footer" width="100%"/>
+
+</div>
