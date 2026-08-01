@@ -3,10 +3,10 @@
 <!-- ============================================================= -->
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rishiigupta04.rishiigupta04" alt="visitors"/>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D0B4E,100:C77DFF&height=220&section=header&text=Hi%20there,%20I'm%20Rishi%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI%20Engineering&descAlignY=52&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D0B4E,100:C77DFF&height=220&section=header&text=Hi%20there,%20I'm%20Rishi%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Generative%20AI&descAlignY=52&descSize=18" width="100%"/>
 
 
-  <a href="https://www.linkedin.com/in/rishi-raj-gupta45/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/rishirajgupta04/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://rishiraj-gupta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7B2CBF?style=for-the-badge&logo=todoist&logoColor=white"/></a>
   <a href="https://huggingface.co/rishigupta04"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
 </div>
@@ -14,10 +14,11 @@
 <br>
 
 ## 👋 About Me
+I build things at the intersection of classical ML and Generative AI; not just wrapping an LLM API call, but fine-tuning models, designing RAG pipelines, and shipping the plumbing (APIs, dashboards, extensions) that makes a model actually usable.
 
-- 🔭 Pursuing my **M.Sc. in Data Science at NMIMS, Mumbai**, focused on statistical modeling, machine learning, and real-world data analysis
-- 🧠 Currently deepening my skills in **model development, evaluation, and production deployment** — not just training models, but shipping them
-- 💬 Core stack: **Python, SQL, Machine Learning, Deep Learning, Data Visualization** — with secondary experience in **React.js, Next.js, and full-stack web development**
+- 🔭 Currently pursuing my M.Sc. in Data Science at NMIMS, Mumbai — bridging statistical rigor with the systems side of ML: how a model actually survives contact with production
+- ✨ Recent focus: Generative AI in practice — fine-tuning transformers, building RAG pipelines over ChromaDB, and using LLMs as reasoning components inside larger systems rather than standalone chatbots
+- 💬 Core stack: **Python, SQL, Machine Learning, Deep Learning, Gen-AI, Data Visualization** — with secondary experience in **React.js, Next.js, and full-stack web development**
 - 🏗️ I like projects that go end-to-end: data ingestion → modeling → explainability → a real interface someone can actually use
 - ⚡ Fun fact: there are more possible chess game variations than atoms in the Milky Way galaxy
 
