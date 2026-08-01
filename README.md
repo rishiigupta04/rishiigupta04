@@ -16,7 +16,7 @@
 ## 👋 About Me
 I build things at the intersection of classical ML and Generative AI; not just wrapping an LLM API call, but fine-tuning models, designing RAG pipelines, and shipping the plumbing (APIs, dashboards, extensions) that makes a model actually usable.
 
-- 🔭 Currently pursuing my M.Sc. in Data Science at NMIMS, Mumbai — bridging statistical rigor with the systems side of ML: how a model actually survives contact with production
+- 🔭 Currently pursuing my M.Sc. in Data Science at NMIMS, Mumbai — CGPA 9.45 (9.27 → Sem 1, 9.82 → Sem 2)
 - ✨ Recent focus: Generative AI in practice — fine-tuning transformers, building RAG pipelines over ChromaDB, and using LLMs as reasoning components inside larger systems rather than standalone chatbots
 - 💬 Core stack: **Python, SQL, Machine Learning, Deep Learning, Gen-AI, Data Visualization** — with secondary experience in **React.js, Next.js, and full-stack web development**
 - 🏗️ I like projects that go end-to-end: data ingestion → modeling → explainability → a real interface someone can actually use
