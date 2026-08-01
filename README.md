@@ -178,25 +178,12 @@ Bureau of Police Research & Development (BPR&D) × Telangana Cyber Security Bure
 ## ⚡ GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rishiigupta04&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=9D4EDD&rank_icon=github"/>
+  <!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=rishiigupta04&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=9D4EDD&rank_icon=github"/> -->
   <img height="165" src="https://streak-stats.demolab.com/?user=rishiigupta04&count_private=true&theme=radical&hide_border=true&background=0D1117&ring=C77DFF&fire=9D4EDD"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishiigupta04&hide=HTML&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=C77DFF&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"/>
-</div>
-
-<br>
-
-<!-- Contribution Snake — enable via a GitHub Action (see note below) -->
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rishiigupta04/rishiigupta04/output/github-contribution-grid-snake.svg"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishiigupta04&hide=HTML&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=C77DFF&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"/> -->
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C77DFF,100:2D0B4E&height=100&section=footer" width="100%"/>
 <br>
 
-<div align="center">
-
-
-
-
-</div>
