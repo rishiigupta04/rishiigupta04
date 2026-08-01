@@ -191,18 +191,12 @@ Bureau of Police Research & Development (BPR&D) × Telangana Cyber Security Bure
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rishiigupta04/rishiigupta04/output/github-contribution-grid-snake.svg"/>
 </div>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C77DFF,100:2D0B4E&height=100&section=footer" width="100%"/>
 <br>
-<hr/>
 
 <div align="center">
 
-### 💬 Let's Connect
 
-Always open to talking data, ML, or AI system design — reach out on LinkedIn.
 
-<a href="https://www.linkedin.com/in/rishi-raj-gupta45/"><img src="https://img.shields.io/badge/Say%20hi%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C77DFF,100:2D0B4E&height=100&section=footer" width="100%"/>
 
 </div>
