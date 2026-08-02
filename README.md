@@ -113,7 +113,7 @@ Fine-tuned Twitter-RoBERTa on 1M+ YouTube comments to classify sentiment on inte
 
 `RoBERTa` `PyTorch` `FastAPI` `LightGBM` `Optuna` `HuggingFace`
 
-[📖 API Docs](https://rishigupta04-yt-comments-sentiment-analyzer.hf.space/docs) · [🤗 Model](https://huggingface.co/rishigupta04/yt-comments-sentiment-analyzer) · [▶ Demo](https://youtu.be/Md9ETL8xWzk) · [💻 Repo](https://github.com/rishiigupta04/yt-comments-sentiment-analysis)
+[▶ Demo](https://youtu.be/Md9ETL8xWzk) · [💻 Repo](https://github.com/rishiigupta04/yt-comments-sentiment-analysis)  · [🤗 Model](https://huggingface.co/rishigupta04/yt-comments-sentiment-analyzer) · [📖 API Docs](https://rishigupta04-yt-comments-sentiment-analyzer.hf.space/docs)
 
 </td>
 <td width="50%" valign="top">
