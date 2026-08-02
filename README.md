@@ -123,11 +123,11 @@ Fine-tuned Twitter-RoBERTa on 1M+ YouTube comments to classify sentiment on inte
 
 Combines three detection pillars in parallel: a LightGBM model on 30+ URL/domain features (with SHAP explainability), a local Mistral 7B LLM for contextual content analysis, and a computer-vision brand-similarity engine (pHash/dHash + OCR) — fused into a single weighted verdict with adaptive thresholding.
 
-**Result:** 94.7% accuracy and 0.96 AUC-ROC across 28,500 URLs — a 32% improvement over single-model baselines. Full analysis in under 30 seconds, with a Streamlit dashboard, browser extension risk badge, and serverless Vercel deployment.
+**Result:** 94.7% accuracy and 0.96 AUC-ROC across 28,500 URLs — a 32% improvement over single-model baselines. Full analysis in under 30 seconds, with a dedicated frontend, explainable AI-powered risk assessment, and decision support.
 
 `LightGBM` `Mistral 7B` `OpenCV` `Selenium` `SHAP` `Streamlit`
 
-[💻 Repo](https://github.com/rishiigupta04/spot_the_fake)
+[▶ Demo](https://youtu.be/cigAVGhOl-0?t=180) · [💻 Repo](https://github.com/rishiigupta04/spot_the_fake)
 
 </td>
 </tr>
