@@ -101,7 +101,7 @@ I build things at the intersection of classical ML and Generative AI; not just w
 
 <div align="center">
 
-**Forward Deployed Engineer Intern @ [UnifyApps](https://unifyapps.com/)**
+**AI Forward Deployed Engineer Intern @ [UnifyApps](https://unifyapps.com/)**
 
 </div>
 
