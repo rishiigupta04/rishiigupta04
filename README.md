@@ -102,7 +102,6 @@ I build things at the intersection of classical ML and Generative AI; not just w
 <div align="center">
 
 **Forward Deployed Engineer Intern @ [UnifyApps](https://unifyapps.com/)**
-A hybrid presales + FDE internship, working on real customer-facing implementation problems in Agentic AI Space.
 
 </div>
 
