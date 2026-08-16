@@ -13,7 +13,7 @@
   <br><br>
 
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2000&pause=3000&color=C77DFF&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Currently+teaching+machines+to+have+opinions;Fine-tuning+transformers+on+real-world+data;Building+RAG+pipelines+that+actually+retrieve;Shipping+ML+from+notebook+to+production" alt="typing-animation"/>
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2000&pause=3000&color=C77DFF&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Forward+Deployed+Engineer+Intern+%40+UnifyApps;Currently+teaching+machines+to+have+opinions;Fine-tuning+transformers+on+real-world+data;Building+RAG+pipelines+that+actually+retrieve;Shipping+ML+from+notebook+to+production" alt="typing-animation"/>
   </a>
 </div>
 
@@ -24,7 +24,8 @@
 ## 👋 About Me
 I build things at the intersection of classical ML and Generative AI; not just wrapping an LLM API call, but fine-tuning models, designing RAG pipelines, and shipping the plumbing (APIs, dashboards, extensions) that makes a model actually usable.
 
-- 🔭 Currently pursuing my M.Sc. in Data Science at NMIMS, Mumbai — CGPA 9.45 (9.27 → Sem 1, 9.82 → Sem 2)
+- 💼 Currently a **Forward Deployed Engineer Intern @ UnifyApps** — a 6-month role blending presales and hands-on technical implementation across integrations, automations, data, and agentic AI/MCP workflows
+- 🔭 Pursuing my M.Sc. in Data Science at NMIMS, Mumbai — CGPA 9.45 (9.27 → Sem 1, 9.82 → Sem 2)
 - ✨ Recent focus: Generative AI in practice — fine-tuning transformers, building RAG pipelines over ChromaDB, and using LLMs as reasoning components inside larger systems rather than standalone chatbots
 - 💬 Core stack: **Python, SQL, Machine Learning, Deep Learning, Gen-AI, Data Visualization** — with secondary experience in **React.js, Next.js, and full-stack web development**
 - 🏗️ I like projects that go end-to-end: data ingestion → modeling → explainability → a real interface someone can actually use
@@ -89,6 +90,19 @@ I build things at the intersection of classical ML and Generative AI; not just w
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2D0B4E,100:C77DFF&height=4"/>
+
+## 💼 Currently
+
+<div align="center">
+
+**Forward Deployed Engineer Intern @ [UnifyApps](https://unifyapps.com/)**
+A 6-month hybrid presales + FDE internship — self-learning the UnifyApps platform (integrations, data, automations, and agentic AI/MCP workflows) and working on real customer-facing implementation problems.
 
 </div>
 
