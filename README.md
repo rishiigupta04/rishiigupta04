@@ -24,7 +24,7 @@
 ## 👋 About Me
 I build things at the intersection of classical ML and Generative AI; not just wrapping an LLM API call, but fine-tuning models, designing RAG pipelines, and shipping the plumbing (APIs, dashboards, extensions) that makes a model actually usable.
 
-- 💼 Currently a **Forward Deployed Engineer Intern @ UnifyApps** — a 6-month role blending presales and hands-on technical implementation across integrations, automations, data, and agentic AI/MCP workflows
+- 💼 Currently a **Forward Deployed Engineer Intern @ UnifyApps** — a role blending presales and hands-on technical implementation across integrations, automations, data, and agentic AI/MCP workflows
 - 🔭 Pursuing my M.Sc. in Data Science at NMIMS, Mumbai — CGPA 9.45 (9.27 → Sem 1, 9.82 → Sem 2)
 - ✨ Recent focus: Generative AI in practice — fine-tuning transformers, building RAG pipelines over ChromaDB, and using LLMs as reasoning components inside larger systems rather than standalone chatbots
 - 💬 Core stack: **Python, SQL, Machine Learning, Deep Learning, Gen-AI, Data Visualization** — with secondary experience in **React.js, Next.js, and full-stack web development**
@@ -102,7 +102,7 @@ I build things at the intersection of classical ML and Generative AI; not just w
 <div align="center">
 
 **Forward Deployed Engineer Intern @ [UnifyApps](https://unifyapps.com/)**
-A 6-month hybrid presales + FDE internship — self-learning the UnifyApps platform (integrations, data, automations, and agentic AI/MCP workflows) and working on real customer-facing implementation problems.
+A hybrid presales + FDE internship, working on real customer-facing implementation problems in Agentic AI Space.
 
 </div>
 
